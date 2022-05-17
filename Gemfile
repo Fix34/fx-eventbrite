@@ -73,3 +73,4 @@ end
 gem 'faker'
 gem'letter_opener'
 gem 'devise'
+gem 'mailjet', :git => 'https://github.com/mailjet/mailjet-gem.git'

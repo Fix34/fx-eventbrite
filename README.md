@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-https://fx-eventbrite.herokuapp.com/
+https://fx-new-eventbrite.herokuapp.com/
