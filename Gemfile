@@ -70,6 +70,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+gem "net-http"
 gem 'faker'
 gem'letter_opener'
 gem 'devise'
